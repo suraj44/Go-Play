@@ -1,4 +1,4 @@
-#Simple CLI App to Query GitHub users
+# Simple CLI App to Query GitHub users
 
 The purpose of this application was understanding how to build Go applications with appropriate structure and linking two files together.
 
